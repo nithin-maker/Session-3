@@ -1,1 +1,1 @@
-# Session-3
+This is a simple if else example in the python - Here, we will read the age of the person by using input() function and convert the entered age value to the integer by using int() function. Then we will check the condition, whether age is greater than or equal to 18 or not - if age is greater than or equal to 18, the person will be eligible for the voting.
